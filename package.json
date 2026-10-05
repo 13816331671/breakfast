@@ -1,0 +1,21 @@
+{
+  "name": "longtang-morning-breakfast",
+  "version": "1.0.0",
+  "private": true,
+  "description": "弄堂晨光 · 上海早点 —— Next.js 单页官网",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.5"
+  }
+}
