@@ -25,7 +25,7 @@ export default function MenuSection() {
         </div>
 
         <p className="menu-note reveal">
-          只做早市，供应时段 <b>05:30 – 10:30</b>　·　卖完即止，恕不预留过午
+          只做早市，供应时段 <b>05:30 – 10:30</b>（节假日延长至 <b>11:00</b>）　·　卖完即止
         </p>
       </div>
     </section>
